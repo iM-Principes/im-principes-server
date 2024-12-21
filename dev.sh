@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ENV_FILE=".env.dev"
+ENV_FILE=".env"
 
 echo "[dev.sh] environment variable file: $ENV_FILE"
 

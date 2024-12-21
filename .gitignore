@@ -40,4 +40,4 @@ cached-antora-playbook.yml
 gitmessage.txt
 
 # Environment Variables
-.env.dev
+.env
